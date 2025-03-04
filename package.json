@@ -8,10 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000-\u0000l\u0000k\u0000j\u0000h\u0000g\u0000\r\u0000 \u0000",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurlyaiymm/-lkjhg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nurlyaiymm/-lkjhg/issues"
+  },
+  "homepage": "https://github.com/nurlyaiymm/-lkjhg#readme"
 }
